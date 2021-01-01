@@ -1,6 +1,6 @@
 {
   "name": "wehire",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "one step deployment for front-end apps",
   "main": "./lib/index.js",
   "bin": {
